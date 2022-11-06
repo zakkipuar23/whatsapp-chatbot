@@ -7,7 +7,7 @@ We had project to build chatbot in Whatsapp by using turn.io with objective :
 2. Create read-aloud challenge to motivate women to do this
 
 My role is :
-1. Developer = create a Whatsapp Chatbot by utilizing turn.io
+1. Developer = criticize and coordinate with product manager about the conversation flow, then create a Whatsapp Chatbot by utilizing turn.io
 2. Data analyst = get the data from turn.io by using Google Big Query then create a monitoring dashboard by using Microsoft Power BI to show the live score, like who was the 1st rank on certain period, how much was their score, etc. 
 
 To try the chatbot, please visit bit.ly/bbb-readaloud-22 
